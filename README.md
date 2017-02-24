@@ -15,9 +15,11 @@ In next version, function like below will be added
 1. Classification of chip defect 
 2. Auto system model optimization - by Ai algorithimn like reinforcement learning, neural network ,gradient boosting etc... 
 
-Languge : C# ( Prototype is made by python )
-UI : WPF
-Backend Algorithmn Lib : Accord.net , EmguCV 
+ Languge : C# ( Prototype is made by python ).
+ 
+ UI : WPF.
+ 
+ Backend Algorithmn Lib : Accord.net , EmguCV. 
 
 This Application is not commercial 
 
